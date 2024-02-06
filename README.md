@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @rishi243
-- 👀 I’m interested in web/software development.
 - 🌱 I’m currently learning objective java.
 - 💞️ I’m looking to collaborate on projects.
 - 📫 How to reach me at gmail rishi.ranjan243@gmail.com
